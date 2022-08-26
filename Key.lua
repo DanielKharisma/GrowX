@@ -16,4 +16,5 @@ ACCESS = {
     ["SIMP4LAY"] = 1,
     ["KANGSOIL"] = 1,
     ["BKOL126"] = 1,
+    ["SONCEKIT7"] = 1,
 }
