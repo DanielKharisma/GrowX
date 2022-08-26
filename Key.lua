@@ -1,1 +1,19 @@
-return(function(...)local F={"7ms3h7zj7QwvE03=","G7Pksb17GwYb";"BsDDhKYbjC+=","GmPWkM==","smbo7h==","TwPulSEKU9==","hmsG7+b1","7QHsG7wW";"Ujyis0DgE+bYE0EElmL=","h710Es1G","7Qb0kb1G7f==","ejzftj15";"7+shksDb7+m=";"TwPntf==";"TwPFWjO=","ksDjsh==","E+bJk7sBs+PkGC7=","BCDBE7ebGmhf19==","Gss4hs13kh=="}local function a(a)return F[a+38035]end for a,K in ipairs({{1;19};{1,1};{2;19}})do while K[1]<K[2]do F[K[1]],F[K[2]],K[1],K[2]=F[K[2]],F[K[1]],K[1]+1,K[2]-1 end end do local a=table.concat local K=string.char local C=math.floor local L=string.sub local k={Z=33;e=29,E=17;A=63;I=46,Y=9,X=55;i=26,F=44,b=5,p=54;l=27;k=18,T=23;t=24,w=53;["7"]=20,O=56;["2"]=31;["1"]=13,d=34,["4"]=11,V=47,H=49;W=25,y=45,g=2;a=59;P=61,M=32,["9"]=0,D=1,z=57;G=19,x=51,N=62,r=28,B=12,J=14,n=39,q=50;["3"]=8;S=38,["+"]=4,Q=52;h=16,["5"]=43,C=35,m=36,o=10;f=48;v=15,["/"]=6,s=21,["6"]=7;u=41;c=42;U=30,K=37,["0"]=3;j=22,L=60,["8"]=58,R=40}local f=string.len local Q=type local s=F local O=table.insert for F=1,#s,1 do local y=s[F]if Q(y)=="string"then local Q=f(y)local G={}local r=1 local T=0 local S=0 while r<=Q do local F=L(y,r,r)local a=k[F]if a then T=T+a*64^(3-S)S=S+1 if S==4 then S=0 local F=C(T/65536)local a=C((T%65536)/256)local L=T%256 O(G,K(F,a,L))T=0 end elseif F=="="then O(G,K(C(T/65536)))if r>=Q or L(y,r+1,r+1)~="="then O(G,K(C((T%65536)/256)))end break end r=r+1 end s[F]=a(G)end end end return(function(F,C,L,k,f,Q,s,W,T,S,y,O,G,K,r,u)y,S,r,K,u,G,T,O,W={},function(F)local a,K=1,F[1]while K do y[K],a=y[K]-1,1+a if 0==y[K]then y[K],O[K]=nil,nil end K=F[a]end end,0,function(K,L,k,f)local I,N,P,w,S,i,n,u,t,O,T,q,Z,E,j,d,A,W,D,l,G,h,r,y,R,g,s while K do r=1 l=a(-38034)n=a(-38033)A=a(-38031)I=1 h=1 E=a(-38029)O=L w=a(-38016)Z=a(-38032)i=1 S=1 T=a(-38017)R=1 W=1 G=a(-38027)g=1 N=a(-38021)u=a(-38023)d=1 j=a(-38026)q=1 s=a(-38018)D=1 P=a(-38030)y=1 t=1 K={[s]=y;[G]=r;[T]=S,[u]=W;[A]=I,[n]=i;[P]=q;[j]=D;[N]=d,[w]=R;[l]=t,[E]=h;[Z]=g}s=a(-38024)F[s]=K K=F[a(-38025)]s={}end K=#f return C(s)end,function(F)y[F]=y[F]-1 if y[F]==0 then y[F],O[F]=nil,nil end end,function()r=1+r y[r]=1 return r end,function(F)for a=1,#F,1 do y[F[a]]=1+y[F[a]]end if L then local K=L(true)local C=f(K)C[a(-38028)],C[a(-38020)],C[a(-38019)]=F,S,function()return-4060412 end return K else return k({},{[a(-38020)]=S;[a(-38028)]=F,[a(-38019)]=function()return-4060412 end})end end,{},function(F,a)local C=T(a)local L=function(...)return K(F,{...},a,C)end return L end return(W(2311750,{}))(C(s))end)(getfenv and getfenv()or _ENV,unpack or table[a(-38022)],newproxy,setmetatable,getmetatable,select,{...})end)(...)
+ACCESS = {
+    ["IPVU"] = 1,
+    ["BESPAM"] = 1,
+    ["DANIELTORN5"] = 1,
+    ["SACHSSS"] = 1,
+    ["1PABREZ1"] = 1,
+    ["REHANVSMOD2"] = 1,
+    ["NOYJ"] = 1,
+    ["SLUMMY"] = 1,
+    ["PEPIPEPI"] = 1,
+    ["20LEGEND04"] = 1,
+    ["MUKASHI"] = 1,
+    ["VAJQ"] = 1,
+    ["MORTSTORE"] = 1,
+    ["LAMNANA"] = 1,
+    ["SIMP4LAY"] = 1,
+    ["KANGSOIL"] = 1,
+    ["BKOL126"] = 1,
+}
