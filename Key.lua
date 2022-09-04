@@ -14,7 +14,7 @@ ACCESS = {
     ["MORTSTORE"] = 1,
     ["LAMNANA"] = 1,
     ["SIMP4LAY"] = 1,
-    ["KANGSOIL"] = 1,
+    ["FINZLEGAL"] = 1,
     ["BKOL126"] = 1,
     ["SONCEKIT7"] = 1,
     ["DAIKENJO"] = 1,
@@ -23,4 +23,7 @@ ACCESS = {
     ["HAMBUL15"] = 1,
     ["TRYTOSCAMNOW"] = 1,
     ["WJKQL"] = 1,
+    ["ZAMOSO10"] = 1,
+    ["UNAIRHEBAT"] = 1,
+    ["TYOCORPBOT1"] = 1,
 }
